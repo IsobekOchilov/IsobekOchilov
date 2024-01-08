@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(230, 131, 131);
+}
+.l p{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.box{
+    background-color: rgb(255, 255, 255);
+    margin-left: 260px;
+    margin-top: 180px;
+    width: 290px;
+    height: 270px;
+}
+
+.box p{
+    font-size: 40px;
+    text-align: center;
+}
+.box h6{
+    font-size: 0px;
+}
+.p p{
+    color: rgb(239, 167, 167);
+    font-size: 22px;
+}
+.k p{
+    font-size: 22px;
+    margin-top: -18px;
+}
+
+
+.bo{
+    background-color: rgb(255, 255, 255);
+    margin-left: 600px;
+    margin-top: -320px;
+    width: 290px;
+    height: 320px;
+}
+
+.bo p{
+    font-size: 40px;
+    text-align: center;
+}
+.bo h6{
+    font-size: 0px;
+}
+.p p{
+    color: rgb(239, 167, 167);
+    font-size: 22px;
+}
+.k p{
+    font-size: 22px;
+    margin-top: -18px;
+}
+
+
+.b{
+    background-color: rgb(255, 255, 255);
+    margin-left: 940px;
+    margin-top: -370px;
+    width: 290px;
+    height: 370px;
+}
+
+.b p{
+    font-size: 40px;
+    text-align: center;
+}
+.b h6{
+    font-size: 0px;
+}
+.p p{
+    color: rgb(239, 167, 167);
+    font-size: 22px;
+}
+.k p{
+    font-size: 22px;
+    margin-top: -18px;
+}
